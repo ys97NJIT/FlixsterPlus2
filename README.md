@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= Walkthrough.gif/>
+<img src= Walkthrough.gif/ width="300">
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
